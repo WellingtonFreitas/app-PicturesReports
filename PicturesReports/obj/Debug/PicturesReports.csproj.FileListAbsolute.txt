@@ -1,0 +1,148 @@
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\PicturesReports.dll.config
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\PicturesReports.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\PicturesReports.pdb
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csc.exe
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csc.exe.config
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csc.rsp
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csi.exe
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csi.exe.config
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csi.rsp
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.AppContext.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Console.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.Compression.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Net.Http.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Net.Sockets.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.ValueTuple.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.XPath.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\vbc.exe
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\vbc.exe.config
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\vbc.rsp
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\VBCSCompiler.exe
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Antlr3.Runtime.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Newtonsoft.Json.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\System.Web.Optimization.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\WebGrease.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\System.Web.Optimization.xml
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Newtonsoft.Json.xml
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Antlr3.Runtime.pdb
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.csproj.CoreCompileInputs.cache
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.csproj.CopyComplete
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.dll
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.pdb
+C:\Users\w.martins.de.freitas\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.csprojAssemblyReference.cache
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.csprojAssemblyReference.cache
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.csproj.CoreCompileInputs.cache
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\PicturesReports.dll.config
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\PicturesReports.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\PicturesReports.pdb
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csc.exe
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csc.exe.config
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csc.rsp
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csi.exe
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csi.exe.config
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\csi.rsp
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.AppContext.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Console.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.Compression.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Net.Http.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Net.Sockets.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.ValueTuple.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.XPath.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\vbc.exe
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\vbc.exe.config
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\vbc.rsp
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\VBCSCompiler.exe
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Antlr3.Runtime.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Newtonsoft.Json.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\System.Web.Optimization.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\WebGrease.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\System.Web.Optimization.xml
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Newtonsoft.Json.xml
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Antlr3.Runtime.pdb
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.csproj.CopyComplete
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.dll
+C:\Users\w.martins.de.freitas\OneDrive - Avanade\BKP note\Desktop\Pessoal\Projetos\C#\WebForms\PicturesReports\PicturesReports\obj\Debug\PicturesReports.pdb

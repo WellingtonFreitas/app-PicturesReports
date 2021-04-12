@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicturesReports", "PicturesReports\PicturesReports.csproj", "{7C42BE5C-47C7-4831-A50C-8B404E150CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C42BE5C-47C7-4831-A50C-8B404E150CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C42BE5C-47C7-4831-A50C-8B404E150CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C42BE5C-47C7-4831-A50C-8B404E150CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C42BE5C-47C7-4831-A50C-8B404E150CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9983912-49A9-4EE8-A55C-3BE6AE095130}
+	EndGlobalSection
+EndGlobal
